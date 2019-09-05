@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SuperMarket Billing System:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SuperMarket_Billing_System_jar</output-path>
+    <root id="archive" name="SuperMarket Billing System.jar">
+      <element id="module-output" name="SuperMarket Billing System" />
+      <element id="module-output" name="supMak" />
+      <element id="library" level="project" name="mysql-connector-java-5.1.43-bin" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/mysql-connector-java-5.1.43-bin.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

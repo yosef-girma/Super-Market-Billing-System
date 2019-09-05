@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SuperMarket Billing System.iml" filepath="$PROJECT_DIR$/SuperMarket Billing System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/supMak/supMak.iml" filepath="$PROJECT_DIR$/supMak/supMak.iml" />
+    </modules>
+  </component>
+</project>

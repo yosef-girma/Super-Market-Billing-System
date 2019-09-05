@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" build-on-make="true" name="SuperMarket Billing System">
+    <output-path>$PROJECT_DIR$/out/artifacts/SuperMarket_Billing_System</output-path>
+    <root id="root">
+      <element id="archive" name="SuperMarket_Billing_System.jar">
+        <element id="module-output" name="SuperMarket Billing System" />
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
